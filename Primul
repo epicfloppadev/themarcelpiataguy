@@ -1,20 +1,14 @@
-From: <Saved by Blink>
-Snapshot-Content-Location: https://pink-matelda-36.tiiny.site/
-Subject: Primul
-Date: Tue, 2 Apr 2024 14:45:21 +0300
-MIME-Version: 1.0
-Content-Type: multipart/related;
-	type="text/html";
-	boundary="----MultipartBoundary--PzG8YXmLVVpBU4OPmzXsnUHX3QvTto3C2ywkQnDm9a----"
+<html><head><title>Primul</title>
+<style>
+body { background-color: green; color: green; }
 
+h1 { background-color: green; color: white; }
 
-------MultipartBoundary--PzG8YXmLVVpBU4OPmzXsnUHX3QvTto3C2ywkQnDm9a----
-Content-Type: text/html
-Content-ID: <frame-62721DF2403B93693A22601E49BB2D3C@mhtml.blink>
-Content-Transfer-Encoding: binary
-Content-Location: https://pink-matelda-36.tiiny.site/
+div { background-color: green; color: white; }
 
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-e5a3bb3d-9f79-4807-9f27-e4e787e62f51@mhtml.blink" /><title>Primul</title></head>
+.myDiv { border: 5px outset lightblue; background-color: whitesmoke; color: black; text-align: center;
+</style>
+</head>
  
     
     
@@ -45,19 +39,4 @@ Content-Location: https://pink-matelda-36.tiiny.site/
    
    
    <!------->
-</body><!-------></html>
-------MultipartBoundary--PzG8YXmLVVpBU4OPmzXsnUHX3QvTto3C2ywkQnDm9a----
-Content-Type: text/css
-Content-Transfer-Encoding: binary
-Content-Location: cid:css-e5a3bb3d-9f79-4807-9f27-e4e787e62f51@mhtml.blink
-
-@charset "utf-8";
-
-body { background-color: green; color: green; }
-
-h1 { background-color: green; color: white; }
-
-div { background-color: green; color: white; }
-
-.myDiv { border: 5px outset lightblue; background-color: whitesmoke; color: black; text-align: center; }
-------MultipartBoundary--PzG8YXmLVVpBU4OPmzXsnUHX3QvTto3C2ywkQnDm9a------
+</body><!-------></html>
