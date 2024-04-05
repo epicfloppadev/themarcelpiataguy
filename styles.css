@@ -1,5 +1,5 @@
 body {
-    background-color: green; 
+    background-color: green;
 }
 
 h1 {
@@ -12,7 +12,7 @@ a {
 }
 
 p {
-   color: white;
+    color: white;
 }
 
 hr {
@@ -22,6 +22,9 @@ hr {
 div {
     border: 5px outset lightblue;
     background-color: whitesmoke;
+    height: 300px;
+    width: 50%;
+    margin: auto;
     color: black;
     text-align: center;
 }
