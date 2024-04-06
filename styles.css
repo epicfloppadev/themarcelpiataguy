@@ -20,7 +20,7 @@ hr {
 }
 
 div {
-    
+
     background-color: whitesmoke;
     height: 100px;
     width: 50%;
@@ -28,6 +28,29 @@ div {
     color: black;
     text-align: center;
 }
+
+.left {
+    position: absolute;
+    left: 10%;
+    background-color: green;
+    height: 500px;
+    width: 40%;
+
+    color: black;
+    text-align: center;
+}
+
+.right {
+    position: absolute;
+    right: 10%;
+    border-color: aqua;
+    background-color: green;
+    height: 500px;
+    width: 40%;
+    color: black;
+    text-align: center;
+}
+
 
 
 /* Create two equal columns that floats next to each other */
