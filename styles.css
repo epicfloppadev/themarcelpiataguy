@@ -31,21 +31,18 @@ div {
 
 .left {
     position: absolute;
-    left: 10%;
+    left: 1%;
     background-color: green;
-    height: 500px;
     width: 40%;
-
     color: black;
     text-align: center;
 }
 
 .right {
     position: absolute;
-    right: 10%;
+    right: 1%;
     border-color: aqua;
     background-color: green;
-    height: 500px;
     width: 40%;
     color: black;
     text-align: center;
