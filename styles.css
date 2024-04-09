@@ -31,40 +31,54 @@ div {
 
 .left {
     position: absolute;
-    left: 10%;
     background-color: green;
-    height: 500px;
-    width: 40%;
-
+    height: 10%;
+    width: 30%;
+    top: 10em;
+    left: 0;
     color: black;
-    text-align: center;
 }
 
 .right {
     position: absolute;
-    right: 10%;
     border-color: aqua;
     background-color: green;
-    height: 500px;
-    width: 40%;
+    height: 10%;
+    width: 30%;
+    top: 10em;
+    right: 0;
     color: black;
+}
+
+.bottom {
+    position: relative;
+    bottom: -30em;
     text-align: center;
+    background-color: green;
 }
 
 .one {
     background-color: red;
-    width: 100%;
+    position: absolute;
+    top: 10em;
+    left: 0;
 }
 
 .two {
     background-color: yellow;
-    width: 100%;
+    position: absolute;
+    top: 10em;
+    right: 0;
 }
 
 .three {
-    background-color: green;
-    width: 100%;
+    background-color: blue;
+    position: relative;
+    bottom: -25em;
+    text-align: center;
+    width: 89.5%;
 }
+
 
 body {
     margin: 0;
